@@ -8,4 +8,4 @@
 
 https://github.com/kirillvkolkov/first_homework/edit/main/README.md "Ссылка на этот ридми"
 
-![И какой-то логотип1](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "И какой-то логотип")
+(https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "И какой-то логотип")
