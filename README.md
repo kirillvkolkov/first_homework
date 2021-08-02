@@ -28,10 +28,4 @@ for elem in modified_input:
 |       3       |      70      |   4   |
 
 
-<dl>
-  <dt>Список определений</dt>
-  <dd>Это то, что люди иногда используют.</dd>
-
-  <dt>Markdown внутри HTML</dt>
-  <dd>Работает *не очень** хорошо. Используйте HTML-<em>теги</em>.</dd>
-</dl>
+###### That's all folks
