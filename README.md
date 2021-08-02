@@ -10,7 +10,7 @@ https://github.com/kirillvkolkov/first_homework/edit/main/README.md "Ссылк�
 
 ![](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "И какой-то логотип")
 
-##### Немного кода 
+##### Немного кода с подсветочкой
 ```python
 for elem in modified_input:
     if elem not in final_array:
