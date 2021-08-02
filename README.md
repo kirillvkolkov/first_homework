@@ -7,3 +7,5 @@
 3. и **многое** другое
 
 https://github.com/kirillvkolkov/first_homework/edit/main/README.md "Ссылка на этот ридми"
+
+(https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Текст заголовка логотипа 1"
